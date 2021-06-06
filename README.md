@@ -6,14 +6,14 @@
 
 **TopoTron** is a simple volumetric display that uses adressable LEDs as WS2812 to create a tridimensional matrix. In this project I explore the posibilities and capabilities with a low resolution matrix to create not only topographies, also other beautiful effects.
 
-Render made with ** MagicaVoxel**
+Render made with **MagicaVoxel**
 
 ![TopoTron](TopoTron.png)
 
 ## Main Features
 
 - First prototype with 5x8x7 voxels.
-- WS212 LED strips.
+- WS2812 LED strips.
 - 3D printed diffusers to create a better effect.
 - MCU based in ESP8266.
 
@@ -44,7 +44,7 @@ In this project I'm using FASTLED Libraries and my own content. See more in **[F
 
 **GPL3.0**
 
-Render made with ** MagicaVoxel**
+Render made with **MagicaVoxel**
 
 ![TopoTron2](TopoTron2.png)
 
