@@ -12,25 +12,20 @@ En esta imagen de concepto vemos el objetivo ideal. Se ha realizado mediante el 
 
 ![TopoTron](TopoTron.png)
 
-### Características principales del prototipo:
+### Características de los modelos y versiones:
 
-- Primer prototipo con 5x8x7 voxels (píxeles volumétricos).
+- **Prototipo** desarrollado en verano 2021. **5x7x7 vóxeles** (245 LED totales). Construido sobre protoboards para facilitar el ensamblado y pruebas. Modelo usado como muestra en la campaña de crowdfunding. ESP8266 y firmware FASTLED modificado.
 
-- Tiras LED del tipo WS2812.
+- **Versión 1 o mediana**. Desarrollado en primavera de 2022. **8x5x7 vóxeles** (280 LED totales). Completamente impreso en 3D con cableado y ensamblado interno. Procesador ESP8266 y firmware FastLED modificado.
 
-- Difusores impresos en 3D para crear el efecto adecuado.
+- **Versión 2 o pequeña**. Desarrollado en verano de 2022. **5x5x10 vóxeles** (250 LED totales). Completamente impreso en 3D con cableado y ensamblado interno. Procesador ESP8266 y firmware WLED modificado. Versión modular que se puede ensamblar en unidades mayores.
 
-- Microcontrolador basado en ESP8266.
-
-La versión que se entregará como recompensa tiene las características indicadas pero tendrá un mejor acabado que el prototipo que permitirá su uso y transporte. 
+La versión que se entregará como recompensa es la 2, que es por el momento la verisón final y puede servir para crear modelos de tamaños diversos.
 
 ### Modelo grande (objetivo del proyecto): 
 
-- Matriz mas grande con 24x16x8 vóxeles o similar.
+- **Versión L** en construcción, finalización en otoño 2022. Matriz mas grande con 15x10x10 vóxeles (1500 LED totales) o similar. Formada por 6 modelos V2 unidos entre si. Procesador ESP32 y firmware WLED modificado.
 
-- Bastidor robusto para alojar el dispositivo y facilitar su uso y transporte.
-
-- Optimización del software para ampliar los efectos disponibles.
 
 ### Lista de materiales (BOM):
 
@@ -38,29 +33,39 @@ El enlace está **[aquí](BOM.xlsx)** (en construcción):
 
 ### Crowdfunding y cofinanciadores:
 
-Este proyecto se inicio como concepto y se prototipó en el marco del concurso internacional **Hackaday Prize** realizado en 2021. 
-
-El enlace a ese proyecto (en inglés) está **[aquí](https://hackaday.io/project/180204-topotron).**
+Este proyecto se inicio como concepto y se prototipó en el marco del concurso internacional **Hackaday Prize** realizado en 2021. El enlace a ese proyecto (en inglés) está **[aquí](https://hackaday.io/project/180204-topotron).**
 
 Se presentó a concurso y no quedó seleccionado, pero la idea me gustó y quise seguir trabajando con ella, con el fin de construir una unidad mas grande y ver así las posibilidades que ofrecía. Por ello me presenté a crowdfunding con la **Fundación Goteo** y a final de 2021 conseguí los fondos necesarios. 
 
 Asi que este proyecto no hubiera sido posible sin el apoyo de las personas y colectivos que lo han cofinanciado. 
 
-La ficha del proyecto en la **Plataforma Goteo** lo tienes **[aquí](https://www.goteo.org/project/topotron).**
+La ficha del proyecto en la **Plataforma Goteo** la tienes **[aquí](https://www.goteo.org/project/topotron).**
 
 La lista de personas y colectivos que han contribuido a la financiación la tienes **[aquí](Cofinanciadores.md).**
 
+### Futuro del proyecto:
+
+En septiembre de 2022 he entrado a la empresa **Camp Tecnológico** dedicada entre otras cosas a la formación y el ocio tecnológico. En ella ampliaremos el catálogo de productos y servicios ya existente, al que se añadirá este proyecto.
+
+Es un proyecto opensource con licencia GPL3.0, asi que eres libre de utilizarlo como quieras. Pero le seguiré dando continuidad desde el seno de la empresa en la que estoy actualmente.
+
 ## Creditos
 
-**TopoTron** es un concetpo desarrollado por **Victor Barahona** en **[Egokitek](https://www.egokitek.com/)**.
+**TopoTron** es un concepto desarrollado por **Victor Barahona** en **[Egokitek](https://www.egokitek.com/)**.
 
-Se ha inspirado en los **cubos LED** y otros conceptos de display volumétricos.
+Se ha inspirado en los **cubos LED** y otros conceptos de **display volumétricos**.
 
-En este proyecto estoy utilizando las librerías FASTLED y mi propio contenido. Ver mas en **[FastLED](https://github.com/FastLED/FastLED).**
+En este proyecto estoy utilizando las librerías **FASTLED y WLED** con modificaciones. 
 
 ## Licencia
 
 **GPL3.0**
+
+## Video demostrativo
+
+En este video teneis una muestra del desarrollo. Forma parte de una lista con varios videos mas. Os invito a ver el resto de contenidos. **[Topotron: desarrollo del proyecto](https://youtu.be/e-akGpGEZ80)**.
+
+
 
 Renderizados hechos con **MagicaVoxel**
 
