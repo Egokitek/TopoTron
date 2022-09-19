@@ -8,4 +8,4 @@
 
 Renderizados hecho con **Fusion360**.
 
-![TopoTronPrototipo](TopoTron_prototipo.jpg)
+![TopoTronPrototipo](TopoTron_prototipo.JPG)
