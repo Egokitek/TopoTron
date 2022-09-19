@@ -7,14 +7,7 @@ Matriz con 5x5x10 vóxeles (250 LED totales). Completamente impresa en 3D con ca
 
 **Página en construcción, actualización pendiente**
 
-Renderizados hecho con **Fusion360**
-
-![TopoTronSescritorio](Imagenes/TopoTronSescritorio.png)
-
-![TopoTronS1](Imagenes/TopoTronS1.png)
-
-![TopoTronS2](Imagenes/TopoTronS2.png)
-
+Renderizados hecho con **Fusion360**.
 
 
 

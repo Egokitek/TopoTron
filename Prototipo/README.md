@@ -8,4 +8,3 @@
 
 Renderizados hecho con **Fusion360**.
 
-![TopoTronPrototipo](https://github.com/Egokitek/TopoTron/blob/master/Prototipo/Imagenes/TopoTronprototipo.png)

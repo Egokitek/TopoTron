@@ -9,13 +9,6 @@ Matriz con 8x5x7 vóxeles (280 LED totales). Completamente impreso en 3D con cab
 
 Renderizados hecho con **Fusion360**
 
-![TopoTronM](Imagenes/TopoTronM.png)
-
-![TopoTronMfrontal](Imagenes/TopoTronMfrontal.png)
-
-![TopoTronMlateral](Imagenes/TopoTronMlateral.png)
-
-
 
 
 
