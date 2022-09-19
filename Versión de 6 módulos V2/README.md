@@ -7,11 +7,11 @@ Matriz mas grande con 15x10x10 vóxeles (1500 LED totales) o similar. Formada po
 
 Renderizados hecho con **Fusion360**
 
-![TopoTronL1](TopoTronL1.jpg)
+![TopoTronL1](TopoTronL1.png)
 
-![TopoTronL2](TopoTronL2.jpg)
+![TopoTronL2](TopoTronL2.png)
 
-![TopoTronL3](TopoTronL3.jpg)
+![TopoTronL3](TopoTronL3.png)
 
 
 
