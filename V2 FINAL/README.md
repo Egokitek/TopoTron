@@ -75,6 +75,9 @@ Matriz con 5x5x10 vóxeles (250 LED totales). Completamente impresa en 3D con ca
 
 - Por último pegamos en las aristas la pieza "arista 16cm", debemos sacar 4 copias. Estos es opcional pero sirve para cubrir la arista que puede ser afilada o tener un corte irregular. En la foto podemos ver el aspecto final que tiene. 
  
+  ### A partir de ahora toca usar el equipo. 
+  
+  Para ello ve [**aquí**](/SW%20y%20configuración/README.md)
 
 **Si quieres ver fotos del equipo encendido las tienes en la**  [**Galería:**](/Galería)
 
