@@ -4,7 +4,7 @@
  
 5x7x7 vóxeles (245 LED totales). Construido sobre protoboards para facilitar el ensamblado y pruebas. Modelo usado como muestra en la campaña de crowdfunding. ESP8266 y firmware FASTLED modificado.
 
-**Este equipo tuvo un uso efímero** y se utilizó en la campaña de captación de fondos del crowdfunding. Tras varios viajes quedo bastante maltrecho **asi que actualmente está desmontado.** Preveo reutilizar algunas de sus piezas para hacer un modelo pequeño y mas robusto, pero si deseas hacer uno vete directamente a la versión 2 que tienes [**aquí:**](/"V2 FINAL"/README.md)
+**Este equipo tuvo un uso efímero** y se utilizó en la campaña de captación de fondos del crowdfunding. Tras varios viajes quedo bastante maltrecho **asi que actualmente está desmontado.** Preveo reutilizar algunas de sus piezas para hacer un modelo pequeño y mas robusto, pero si deseas hacer uno vete directamente a la versión 2 que tienes [**aquí:**](/V2%20FINAL/README.md)
 
 Adjunto algunas fotos del proceso de montaje así como algunas características:
 
