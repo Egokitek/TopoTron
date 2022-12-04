@@ -5,10 +5,22 @@
  
 Matriz con 8x5x7 vóxeles (280 LED totales). Completamente impreso en 3D con cableado y ensamblado interno. Procesador ESP8266 y firmware FastLED modificado.
 
-**Página en construcción, actualización pendiente**
+Inicialmente quería incluir un interfaz básico con display oled de 0,96 pulgadas y dos pulsadores. Llegó a estar operativo, pero al tiempo que lo terminaba encontré un proyecto que permitía manejar por wifi , se llama **WLED** y es el que finalmente he desplegado en todos los equipos. Reúne casi todos los requisitos que buscaba y con un excelente interfaz que puedes manejar desde movil, tableta u ordenador. 
 
-Renderizados hecho con **Fusion360**
+**Este equipo** tiene un ancho de unos 32cm, lo que **requiere una impresora grande**. En mi caso utilicé una **Artillery X1**. El tema del tamaño me llevó a rediseñar el proyecto para que fuera modular y mas facil de imprimir. Por eso mismo no me detengo en su proceso constructivo, sino que adjunto algunas fotos. Si quieres hacer uno te recomiendo que vayas directamente a la versión dos que tienes [**aquí.**](/V2FINAL)
 
+- En primer lugar, un renderizado hecho con **Fusion360:**
+![Topotron M renderizado](imagenes/TopotronM.png)
 
+- La base se imprimió en color dorado ya que quería dar a este equipo un toque **steampunk:**
+![Base impresa](imagenes/Baseimpresa.png)
 
+- Otra foto recién salida de la impresora, para apreciar la dificultad añadida por el tamaño y la cuestión de los soportes: en una pieza como esta añadiría mucho tiempo de impresión y material de soporte sobrante. Tomé el riesgo y pude imprimirla sin ellos.
+![Imprimiendo base 30cm](imagenes/Imprimiendobase30cm.png)
+
+- Aquí vemos el aspecto de la placa donde se montarán las barras LED y sus agujeros pasantes:
+![Placa interconexión barras LED](imagenes/Placainterconexionbarrasled.png)
+
+- Y aquí el resultado final, a falta de la tapa superior en metacrilato. Mas fotos en la **Galería**:
+![Topotron M vista frontal](imagenes/TopotronMfrontal.png)
 
