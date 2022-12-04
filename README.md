@@ -68,7 +68,7 @@ En este proyecto estoy utilizando las librerías **FASTLED y WLED** con modifica
 
 ## Video demostrativo y mas imágenes:
 
-Tienes mas imágenes en la carpeta de [**Galería.**](/Galeria)
+Tienes mas imágenes en la carpeta de [**Galería.**](/Galería/README.md)
 
 En este video teneis una muestra del desarrollo. Forma parte de una lista con varios videos mas. Os invito a ver el resto de contenidos. **[Topotron: desarrollo del proyecto](https://youtu.be/e-akGpGEZ80)**.
 
