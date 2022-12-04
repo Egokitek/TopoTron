@@ -1,7 +1,7 @@
 
 ## Software y configuración
 
-#### Requerimientos de Cableado:
+### Requerimientos de Cableado:
 
 - El cable **Din** de la primera barra LED debe conectarse a través de una resistencia de 470ohm al pin D4 del ESP8266.
 - El  **GND** del ESP8266 y de los LED debe estar interconectado.
@@ -12,7 +12,7 @@ La clave es saber si **es suficiente para que se desde Vin y con intensidad limi
 
 ![Encendido con powerbank](encendidoconpowerbank.png)
 
-#### Carga del firmware
+### Carga del firmware
 
 - Lo hacemos mediante el software WLED que podemos encontrar en su pagina oficial [**WLED**](https://kno.wled.ge/). Disponemos de tutoriales, comunidad y multitud de información que nos puede ayudar ajustar nuestro dispositivo.
 - Dispone de varios procedimientos de instalación, el mejor es desde la web, lo tienes [**aquí.**](https://install.wled.me/) . Tendrás que tener el ESP8266 conectado por USB.
@@ -21,7 +21,7 @@ La clave es saber si **es suficiente para que se desde Vin y con intensidad limi
 - Y ya casi está, la instalación es rápida y muy directa.
 - OJO! Nos pedirá elegir una red Wifi para conectar, debemos poner la misma que usemos en el dispositivo desde el que conectamos. Normalmente será la doméstica. Pero yo me voy a eventos y para tener movilidad pongo mi móvil en modo punto de conexión, asi que aquí pongo el nombre de la red wifi que puedo asignar en mi movil. Si quieres usar en movilidad te recomiendo que hagas esto.
 
-#### Prueba de encendido
+### Prueba de encendido
 
 - Descargamos la app WLED para móvil, la tienes en la app store o google play.
 - Nos aseguramos de que estamos en la misma red wifi.
@@ -31,7 +31,7 @@ La clave es saber si **es suficiente para que se desde Vin y con intensidad limi
 - Vamos a la pestaña de configuración y elegimos la opcion "LED preferences".
 - Ahí dentro marcamos la casilla de limitacion de corriente, ponemos corriente máxima a 500mA, bajamos un poco y encontramos el num de LED que tenemos. Para Topotron V2 ponemos el valor 250. Subimos arriba y damos al botón "Save". Si todo ha ido bien veremos que se encienden todos los LED. A partir de ahi es jugar con la herramienta. Puedes seguir las instrucciones de la pagina web oficial y tambien hay videotutoriales en internet, casi todo en inglés.
 
-#### A partir de ahora?
+### A partir de ahora?
 
 Con el sw WLED se cumplen muchos de los requerimientos que buscaba en el proyecto, y se puede personalizar para llevarlo aun mas lejos. Pero hay algunas cosas que no son posibles y me gustaría que se puedan hacer. 
 
