@@ -21,6 +21,6 @@ Inicialmente quería incluir un interfaz básico con display oled de 0,96 pulgad
 - Aquí vemos el aspecto de la placa donde se montarán las barras LED y sus agujeros pasantes:
 ![Placa interconexión barras LED](Imagenes/Placainterconexionbarrasled.png)
 
-- Y aquí el resultado final, a falta de la tapa superior en metacrilato. Mas fotos en la [**Galería**](Galeria/README.md):
+- Y aquí el resultado final, a falta de la tapa superior en metacrilato. Mas fotos en la [**Galería**](/Galeria/README.md):
 ![Topotron M vista frontal](Imagenes/TopotronMfrontal.png)
 
