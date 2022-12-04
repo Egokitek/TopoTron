@@ -13,7 +13,7 @@
 ![Encendidos con baja luz 2](Encendidoconbajaluz2.png)
 
 - Encendido con power bank (Si, gastan tan poco que pueden funcionar sin red):
-![Encendidos con power bank](Encendidoconpowerbank.png)
+![Encendidos con power bank](encendidoconpowerbank.png)
 
 - Encendidos a oscuras:
 ![Encendidos a oscuras](Encendidoaoscuras.png)
