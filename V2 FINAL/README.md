@@ -29,7 +29,7 @@ Matriz con 5x5x10 vóxeles (250 LED totales). Completamente impresa en 3D con ca
 
 ![Soldando cableado](Imagenes/Soldandocableado.png)
 
-![Pegando cable Dout](Imagenes/Pegandocabledout.png)
+![Pegando cable Dout](Imagenes/PegandocableDout.png)
 
 - Después podemos pegar una a una todos los difusores sobre cada uno de los LED. Son 250 piezas de "celda QUAD v3". Las imprimimos en lotes de 25, 50 o como podamos, en PLA transparente o resina. En el caso de PLA con 3 perímetros y top/bottom de 3. Para pegarlas  el cianocrilato es una opción pero a mi me ha dado bastantes problemas. Recomiendo cola termofusible para esta tarea:
 
