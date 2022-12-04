@@ -1,4 +1,4 @@
-## Versión 1 o mediana
+## Versión 1 (M)
 
 
 #### **Versión M** finalizada en primavera 2022. 
