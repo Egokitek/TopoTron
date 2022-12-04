@@ -1,7 +1,7 @@
 ## Versión 2
 
 
-#### **Versión 2** (final) terminada en verano de 2022. 
+### **Versión 2** (final) terminada en verano de 2022. 
  
 Matriz con 5x5x10 vóxeles (250 LED totales). Completamente impresa en 3D con cableado y ensamblado interno. Procesador ESP8266 y firmware WLED modificado. Versión modular que se puede ensamblar en unidades mayores.
 
@@ -19,7 +19,7 @@ Matriz con 5x5x10 vóxeles (250 LED totales). Completamente impresa en 3D con ca
 
 **Curiosamente basta con alimentar con una fuente USB de móviles al microcontrolador.** Este puede suministrar suficiente corriente para que los LED funcionen tal y como se ve en las fotos. Esto se debe a que el microcontrolador ESP8266 tiene una pataVin que puede servir de salida de la tension entrante por su puerto miniusb. Se limita por software la corriente máxima de salida a unos 500mA. Hay quien dice que se puede sacar hasta 1A o 1000mA) pero por precaución lo dejo en 500. No me han dado ningun problema los diferentes modelos que he construido hasta ahora para las recompensas.
 
-#### ¿Cómo se construye?
+### ¿Cómo se construye?
 
 - Imprimimos 5 piezas de "Barra LED 5x10" , preferentemente en color negro, y sobre ellas pegamos tiras LED con una longitud de 10 LED. Antes de pegarlas les soldamos previamente un cable rojo para 5V, otro negro para GND y otro de cualquier color para Din (data input). todos estos cables han de tener una longitud de unos 3cm en 3 de las piezas. En una el de 5V será mas largo, de unos 8cm. Y en otra el GND tendrá 8cm. Esto se debe a las necesidades de conexionado posterior. Despues de soldar estos cables podemos pasarlos por un agujero en el soporte de "Barra LED 5x10", hay uno por cada tira. Y despues podemos pegarlas.
 
