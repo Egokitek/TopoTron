@@ -57,7 +57,7 @@ Matriz con 5x5x10 vóxeles (250 LED totales). Completamente impresa en 3D con ca
 
 - **Conectamos el cable de Din de la primera barra LED a una resistencia de unos 470ohm** y despues a un cable de unos 15cm, este conectará al microcontrolador. Puede ponerse la resistencia al otro extremo, en el lado del MC. Este cable pasará también por el agujero pasante con los dos de 5V y GND.
 
-- Hacemos una prueba de encendido (ver [**aquí**](/SW y configuración/README.md)) para asegurarnos de que todo funciona. Si es así, adelante al siguiente paso. Si no, toca revisar y reparar la/s soldaduras defectuosas, que es habitualmente la fuente de problemas.
+- Hacemos una prueba de encendido (ver [**aquí**](/SW%20y%20configuración/README.md)) para asegurarnos de que todo funciona. Si es así, adelante al siguiente paso. Si no, toca revisar y reparar la/s soldaduras defectuosas, que es habitualmente la fuente de problemas.
 
 - Si todo está bien podemos acomodar los cables para que abulten lo menos posible, incluso pegando en algunos puntos con cola termofusible. Quedará como en la foto.
 
